@@ -1,0 +1,14 @@
+{
+    "name": "adam", 
+    "fovNum": 3, 
+    "isProgrammer": true, 
+    "hobbies": ["running", "gaming"], 
+    "friends": [{
+        "name": "Ryan", 
+        "favNum": 7, 
+        "isProgrammer": false,
+        "friends": [...]
+    }]
+}
+
+
